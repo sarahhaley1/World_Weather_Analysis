@@ -12,4 +12,10 @@ current_weather.png![image](https://user-images.githubusercontent.com/66536405/1
 ## Deliverable 2: Create a Customer Travel Map
 
 Using the customer's input weather preferences, potential travel destinations were listed with their corresponding weather conditons. This was to make the filter of choosing a destination for the traveler easier and more narrowed down to their actual desires. This filtering isolated locations on the map so that travelers could truly identify where they wanted to go.
+WeatherPy_vacation_map.png![image](https://user-images.githubusercontent.com/66536405/113917271-ddadac80-9795-11eb-80b7-8fd517d39303.png)
 
+
+## Deliverable 3: Create a Travel Itinerary Map
+Using the Google Directions API, create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. Then, to make it more user friendly creating popup markers to identify the locations will help the traveler further identify the route. 
+WeatherPy_travel_map.png![image](https://user-images.githubusercontent.com/66536405/113918342-29148a80-9797-11eb-8e51-7915dfc2007d.png)
+WeatherPy_travel_map_markers.png![image](https://user-images.githubusercontent.com/66536405/113918351-2c0f7b00-9797-11eb-875d-f46b49749196.png)
